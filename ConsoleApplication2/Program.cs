@@ -12,7 +12,8 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("hallo");
             Console.WriteLine("welt");
-            Console.WriteLine("hallo");
+            Console.WriteLine("hallo2");
+            Console.WriteLine("hallo2");
         }
     }
 }
